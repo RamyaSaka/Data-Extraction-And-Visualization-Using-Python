@@ -9,6 +9,7 @@ In this project we are trying to extract **Stock Data** and visualize stock acti
 1. Data Extraction - Python
 2. Data Cleaning - Python
 3. Data Visualization - Python
+4. Web application - Jupyter Notebook
 
 
 <h1> Libraries Used </h1>
