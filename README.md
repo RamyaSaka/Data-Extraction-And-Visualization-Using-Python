@@ -4,7 +4,7 @@
 In this project we are trying to extract **Stock Data** and visualize stock activity by using share price, revenue and year.
 
 
-<h1> Software Used </h1>
+<h2> Tools Used </h2>
 
 1. Data Extraction - Python
 2. Data Cleaning - Python
@@ -12,7 +12,7 @@ In this project we are trying to extract **Stock Data** and visualize stock acti
 4. Web application - Jupyter Notebook
 
 
-<h1> Libraries Used </h1>
+<h2> Libraries Used </h2>
 
 1. Yfinance - Used to collect historical financial data from Yahoo Finance API.
 2. Pandas - Used to analyze data.
@@ -21,7 +21,7 @@ In this project we are trying to extract **Stock Data** and visualize stock acti
 5. Plotly - Used to make interactive graphs.
 
 
-<h1>Visualization </h1>
+<h2>Visualization </h2>
 
 **Tesla Share**
 
