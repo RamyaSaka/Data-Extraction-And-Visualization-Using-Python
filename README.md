@@ -1,4 +1,4 @@
-# Data Extraction And Visualization Using Python
+# Stock Data Analysis
 
 
 In this project we are trying to extract **Stock Data** and visualize stock activity by using share price, revenue and year.
